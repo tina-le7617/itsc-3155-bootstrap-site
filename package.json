@@ -1,0 +1,28 @@
+{
+  "name": "itsc-3155-bootstrap-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tina-le7617/itsc-3155-bootstrap-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tina-le7617/itsc-3155-bootstrap-site/issues"
+  },
+  "homepage": "https://github.com/tina-le7617/itsc-3155-bootstrap-site#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
