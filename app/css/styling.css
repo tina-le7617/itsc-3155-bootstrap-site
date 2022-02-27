@@ -11121,3 +11121,12 @@ textarea.form-control-lg {
 * {
   font-family: "Nova Mono";
 }
+
+p {
+  color: #F2576F;
+}
+
+footer {
+  background: #FDCCB4;
+  color: white;
+}
