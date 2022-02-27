@@ -19,11 +19,23 @@ p {
 }
 
 .white-body {
-    padding: 50px;
+  padding: 50px;
   width: 80%;
   height: auto;
   background: #ffffff;
   border-radius: 38px;
+}
+
+.form-label {
+  color: #f2576f;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: #672100;
+  color: white;
 }
 
 footer {
