@@ -11122,11 +11122,27 @@ textarea.form-control-lg {
   font-family: "Nova Mono";
 }
 
+h1, .h1 {
+  color: #672100;
+}
+
 p {
-  color: #F2576F;
+  color: #f2576f;
+}
+
+.pink-body {
+  background-color: #f46c8130;
+}
+
+.white-body {
+  padding: 50px;
+  width: 80%;
+  height: auto;
+  background: #ffffff;
+  border-radius: 38px;
 }
 
 footer {
-  background: #FDCCB4;
+  background: #fdccb4;
   color: white;
 }
